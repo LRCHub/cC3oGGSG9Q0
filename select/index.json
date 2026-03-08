@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Squeeze",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T05:50:19.506694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Squeeze Box",
+      "artist": "Mark Wills",
+      "has_synced": false,
+      "path": "select/01_Squeeze_Box_Mark_Wills.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Squeeze Box (Album Version)",
+      "artist": "Mark Wills",
+      "has_synced": false,
+      "path": "select/02_Squeeze_Box_(Album_Version)_Mark_Wills.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Squeeze Me",
+      "artist": "LOL",
+      "has_synced": true,
+      "path": "select/03_Squeeze_Me_LOL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Squeeze Box",
+      "artist": "Laura Branigan",
+      "has_synced": true,
+      "path": "select/04_Squeeze_Box_Laura_Branigan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Squeeze Please",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/05_Squeeze_Please_Yello.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Squeeze The Fruit",
+      "artist": "Commodores",
+      "has_synced": true,
+      "path": "select/06_Squeeze_The_Fruit_Commodores.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Squeeze The Trigger",
+      "artist": "De-Phazz",
+      "has_synced": false,
+      "path": "select/07_Squeeze_The_Trigger_De-Phazz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hold Me, Squeeze Me",
+      "artist": "Angel",
+      "has_synced": true,
+      "path": "select/08_Hold_Me,_Squeeze_Me_Angel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Squeeze Me Macaroni",
+      "artist": "Mr. Bungle",
+      "has_synced": true,
+      "path": "select/09_Squeeze_Me_Macaroni_Mr._Bungle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Squeeze Me Macaroni",
+      "artist": "Mr. Bungle Mike Patton",
+      "has_synced": true,
+      "path": "select/10_Squeeze_Me_Macaroni_Mr._Bungle_Mike_Patton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Squeeze Box",
+      "artist": "Poison",
+      "has_synced": false,
+      "path": "select/11_Squeeze_Box_Poison.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Squeeze Box",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/12_Squeeze_Box_Poison.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Squeeze",
+      "artist": "Atreyu",
+      "has_synced": false,
+      "path": "select/13_The_Squeeze_Atreyu.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Squeeze Me (Music from The Spongebob Movie Sponge Out Of Water)",
+      "artist": "N.E.R.D",
+      "has_synced": true,
+      "path": "select/14_Squeeze_Me_(Music_from_The_Spongebob_Movie_Sponge_Out_Of_Water)_N.E.R.D.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Squeeze Me (Music From The Spongebob Movie Sponge Out Of Water)",
+      "artist": "N.E.R.D.",
+      "has_synced": true,
+      "path": "select/15_Squeeze_Me_(Music_From_The_Spongebob_Movie_Sponge_Out_Of_Water)_N.E.R.D..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Squeeze",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Squeeze_ピーナッツくん.txt"
+    }
+  ]
+}
